@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Datas>
+    <Data>
+      <ID>81a97ac1-5a3f-439d-9f48-131a1e3640b7</ID>
+      <Data>forgemgsgf@gmail.com</Data>
+      <Description>Mail</Description>
+      <Order>1</Order>
+    </Data>
+    <Data>
+      <ID>088bc200-800e-4473-939d-210a98b7ec9c</ID>
+      <Data>kgbeidbf5d254s4d8f4547s54f6d5s4d4f</Data>
+      <Description>NEO</Description>
+      <Order>3</Order>
+    </Data>
+    <Data>
+      <ID>f6e334dd-4be5-4f3f-b0d5-9e5fc1c6bdae</ID>
+      <Data>https://bitcointalk.org/index.php?action=profile;u=1983483</Data>
+      <Description>Bitcointalk profil URL</Description>
+      <Order>4</Order>
+    </Data>
+    <Data>
+      <ID>0a59a550-be42-4555-97a6-10480950dcc6</ID>
+      <Data>forgeBTT</Data>
+      <Description>Bitcointalk Name</Description>
+      <Order>5</Order>
+    </Data>
+    <Data>
+      <ID>bf9a88fb-29cb-42fe-a503-9800344b862e</ID>
+      <Data>@MForge</Data>
+      <Description>Facebook/Twitter Namae</Description>
+      <Order>6</Order>
+    </Data>
+    <Data>
+      <ID>8e403e12-3862-42c3-8f76-b3c979c7cc73</ID>
+      <Data>https://www.facebook.com/MForge</Data>
+      <Description>Facebook URL</Description>
+      <Order>7</Order>
+    </Data>
+    <Data>
+      <ID>b4fa3295-44e4-484f-9724-1e71c102aec9</ID>
+      <Data>https://twitter.com/MForge</Data>
+      <Description>Twitter URL</Description>
+      <Order>8</Order>
+    </Data>
+    <Data>
+      <ID>c570e36c-39a9-4ce7-aafc-982d99ee097a</ID>
+      <Data>@MForge</Data>
+      <Description>Telegram</Description>
+      <Order>9</Order>
+    </Data>
+    <Data>
+      <ID>50f2bbb9-69ab-432e-be39-d1ac85a31674</ID>
+      <Data>https://www.linkedin.com/in/forge-M-482185161/</Data>
+      <Description>Linkedin</Description>
+      <Order>10</Order>
+    </Data>
+    <Data>
+      <ID>275e1ef2-6c00-4497-8f56-eb8eb9bd1242</ID>
+      <Data>https://www.reddit.com/user/MForge</Data>
+      <Description>Reddit</Description>
+      <Order>11</Order>
+    </Data>
+    <Data>
+      <ID>2643b133-f7c3-4891-9065-8473d9bae821</ID>
+      <Data>If the project is as good as the UI and everything that turns around, the project will be good :) </Data>
+      <Description>text BCTT</Description>
+      <Order>12</Order>
+    </Data>
+  </Datas>
+</Root>
